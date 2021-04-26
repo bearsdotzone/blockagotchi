@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "zzz",
+    "xyx",
+    "zzz"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:redstone"
+    },
+    "y": {
+      "item": "minecraft:bone"
+    },
+	"z": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "blockagotchi:watch_item"
+  }
+}

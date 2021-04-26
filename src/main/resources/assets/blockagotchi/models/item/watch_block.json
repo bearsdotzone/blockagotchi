@@ -1,0 +1,14 @@
+{
+  "parent": "blockagotchi:block/watch_block",
+  "textures": {
+    "particle": "blockagotchi:block/watch_block_side",
+    "down": "blockagotchi:block/watch_block_side",
+    "up": "blockagotchi:block/watch_block_side",
+    "east": "blockagotchi:block/watch_block_side",
+    "west": "blockagotchi:block/watch_block_side",
+    "north": "blockagotchi:block/watch_block_back",
+    "south": "blockagotchi:block/watch_block_front"
+  }
+  
+  
+}
