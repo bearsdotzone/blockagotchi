@@ -23,13 +23,14 @@ public class WatchItem extends BlockItem {
 
     // Int is inventory slot what this item stack is in
     // bool is whether or not the item is currently in hand
+    // bool is also true when you're hovering over first inv slot and item is in offhand. weird stuff
 
     @Override
     public void inventoryTick(ItemStack p_77663_1_, World p_77663_2_, Entity p_77663_3_, int p_77663_4_, boolean p_77663_5_) {
         super.inventoryTick(p_77663_1_, p_77663_2_, p_77663_3_, p_77663_4_, p_77663_5_);
         if(p_77663_2_.isClientSide())
         {
-            Blockagotchi.LOGGER.log(Level.DEBUG, p_77663_4_ + " " + p_77663_5_);
+//            Blockagotchi.LOGGER.log(Level.DEBUG, p_77663_4_ + " " + p_77663_5_);
         }
     }
 }
