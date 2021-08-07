@@ -1,0 +1,19 @@
+todo:
+
+cute
+	shell colors? dyable?
+sounds
+	-	figure out how to change octave
+	-	figure out how to play a sequence
+	-	cute
+personality
+	food
+	tone of voice?
+	energy levels
+	emotive
+death
+	how?
+	return gunpowder, put in redstone?
+attention
+	
+clock
